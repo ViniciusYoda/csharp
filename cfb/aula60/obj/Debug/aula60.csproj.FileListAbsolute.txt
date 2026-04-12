@@ -1,0 +1,10 @@
+C:\Users\Administrador\Documents\github\csharp\cfb\aula60\bin\Debug\aula60.exe.config
+C:\Users\Administrador\Documents\github\csharp\cfb\aula60\bin\Debug\aula60.exe
+C:\Users\Administrador\Documents\github\csharp\cfb\aula60\bin\Debug\aula60.pdb
+C:\Users\Administrador\Documents\github\csharp\cfb\aula60\obj\Debug\aula60.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\github\csharp\cfb\aula60\obj\Debug\aula60.Form1.resources
+C:\Users\Administrador\Documents\github\csharp\cfb\aula60\obj\Debug\aula60.Properties.Resources.resources
+C:\Users\Administrador\Documents\github\csharp\cfb\aula60\obj\Debug\aula60.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\github\csharp\cfb\aula60\obj\Debug\aula60.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\github\csharp\cfb\aula60\obj\Debug\aula60.exe
+C:\Users\Administrador\Documents\github\csharp\cfb\aula60\obj\Debug\aula60.pdb
